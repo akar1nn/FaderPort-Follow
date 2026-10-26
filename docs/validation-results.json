@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "generated_utc": "2026-10-26T06:56:15.929289+00:00",
+  "python": "3.12.1",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "runtime_python_3_7_syntax": true,
+  "tests_run": 73,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "passed": true,
+  "limitations": [
+    "Live framework entrypoint tests use stubs",
+    "This runner does not validate actual Live loading or physical hardware"
+  ]
+}
